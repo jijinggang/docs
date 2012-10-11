@@ -34,3 +34,7 @@
 特殊字符\*\-\(\<\>
 
 [GitHub]: http://www.github.com "GitHub"
+
+##感兴趣的其他项目
+- <https://github.com/visualfc/build-web-application-with-golang>
+- <https://github.com/banderson/Keypass>
