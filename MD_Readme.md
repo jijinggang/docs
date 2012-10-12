@@ -34,3 +34,8 @@
 特殊字符\*\-\(\<\>
 
 [GitHub]: http://www.github.com "GitHub"
+
+
+##Windows上如何使用markdown
+1. 安装MarkDownPad
+2. 替换为github css <https://github.com/nicolahery/markdownpad-github>
