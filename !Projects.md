@@ -4,6 +4,7 @@ go
 - <https://github.com/astaxie/beedb>
 - <https://github.com/robertkrimen/godocdown>
 - <https://github.com/specode/Gorbled>(blog on GAE)
+- <https://github.com/bmizerany/assert>
 
 c#
 ---
