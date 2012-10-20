@@ -10,3 +10,7 @@ c#
 ---
 - <https://github.com/banderson/Keypass>
 - <https://github.com/jpoehls/MarkdownWin>
+
+General
+-------
+- <https://github.com/github/gitignore>
