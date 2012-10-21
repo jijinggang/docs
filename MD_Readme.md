@@ -37,5 +37,4 @@
 
 
 ##Windows上如何使用markdown
-1. 安装MarkDownPad
-2. 替换为github css <https://github.com/jijinggang/markdownpad-github>
+安装[MarkDownView](<https://github.com/jijinggang/MarkdownViewer>)
