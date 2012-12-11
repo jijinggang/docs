@@ -6,11 +6,11 @@ go
 - <https://github.com/specode/Gorbled>(blog on GAE)
 - <https://github.com/bmizerany/assert>
 - <https://github.com/cangmingyefeng/wcproxy> (Go Proxy)
+- <https://github.com/lxn/walk> (Go GUI)
 
 c#
 ---
 - <https://github.com/banderson/Keypass>
-- <https://github.com/jpoehls/MarkdownWin>
 
 General
 -------
