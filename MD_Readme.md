@@ -37,4 +37,4 @@
 
 
 ##Windows上如何使用markdown
-安装[MarkDownView](<https://github.com/jijinggang/MarkdownViewer>)
+安装[MarkDownEditor](<https://github.com/jijinggang/MarkdownEditor>)
