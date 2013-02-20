@@ -21,3 +21,8 @@
 1. 新建Mobile应用(testM)
 2. 修改app.xml(testM-app.xml)中的<id>项目，与申请的apple应用证书一样
 3. 导出发行版->数字签名（证书、密码、配置文件）
+
+##Debug
+1. 使用本地信任文件
+在Windows XP操作系统中，当前用户的本地信任文件路径为：
+C:\Documents and Settings\[你的用户名]\Application Data\Macromedia\Flash Player\#Security\FlashPlayerTrust\flashbuilder.cfg
