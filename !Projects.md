@@ -1,5 +1,6 @@
 go
 ---
+- <https://github.com/astaxie/gopkg> (go中文文档及示例)
 - <https://github.com/robfig/cron> (CRON定时库)
 - <https://github.com/visualfc/build-web-application-with-golang>
 - <https://github.com/astaxie/beedb>
