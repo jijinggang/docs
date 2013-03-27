@@ -7,3 +7,4 @@
 - [SVN使用](<svn.md>)
 - [Flash开发](<flash.md>)
 - [Golang](<go.md>)
+- [Linux](<linux.md>)
