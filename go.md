@@ -1,3 +1,5 @@
+##减小编译文件尺寸
+	go build -ldflags "-s -w"
 ##array
 ###循环:
 	ary := []string{"a","b","c"}
