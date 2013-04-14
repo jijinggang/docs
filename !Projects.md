@@ -12,6 +12,7 @@ go
 - <https://github.com/bmizerany/assert>
 - <https://github.com/cangmingyefeng/wcproxy> (Go Proxy)
 - <https://github.com/lxn/walk> (Go GUI)
+- <https://github.com/DisposaBoy/GoSublime>(好用的Go开发工具)
 
 Java
 ---
@@ -21,6 +22,3 @@ General
 -------
 - <https://github.com/github/gitignore>
 
-Books
------
-<https://raw.github.com/astaxie/NPWG_zh/master/zh/index.html>
