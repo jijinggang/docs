@@ -1,5 +1,6 @@
 ##酷站
-- ＜www.golang.in＞ 对channel及协程讲得很到位
+- ＜http://www.golang.in＞ 对channel及协程讲得很到位
+
 ##减小编译文件尺寸
 	go build -ldflags "-s -w"
 ##array
