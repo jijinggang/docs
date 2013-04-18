@@ -2,9 +2,9 @@
 - ＜http://www.golang.in＞ 对channel及协程讲得很到位
 
 ##编译参数
-减小编译文件尺寸
+    //减小编译文件尺寸
     go build -ldflags "-s -w"
-不显示Win命令行窗口
+    //不显示Win命令行窗口
     go build -ldflags -Hwindowsgui project.go
 
 ##array
