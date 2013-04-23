@@ -4,6 +4,7 @@ go
 - <https://github.com/laher/goxc> (go交叉编译工具)
 - <https://github.com/ciju/gotunnel> (通过公有服务器，在两个内网服务器之间建立连接)
 - <https://github.com/robfig/cron> (CRON定时库)
+- <https://github.com/samuel/go-cache> 实现了LRU LFU缓存算法
 - <https://github.com/visualfc/build-web-application-with-golang>
 - <https://github.com/astaxie/beedb>
 - <https://github.com/robertkrimen/godocdown>
