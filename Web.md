@@ -1,5 +1,9 @@
 WordPress
 ======
+皮肤
+-----
+http://www.oschina.net/news/40390/best-grid-based-wordpress-themes
+
 页面静态化
 ----------
 1. 安装.html on pages 插件
