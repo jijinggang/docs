@@ -2,3 +2,4 @@
 - flv http://m.blog.sina.com.cn/s/blog_48f93b530100eyoe.html
 - mp4 http://blog.csdn.net/wangxiaowanghui/article/details/8538574
 - isma http://www.docin.com/p-223814742.html
+- libav http://libav.org/ (ffmpeg替代项目)
