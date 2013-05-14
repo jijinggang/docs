@@ -1,6 +1,6 @@
 ##Starling
 - 粒子 http://onebyonedesign.com/flash/particleeditor/
-- 
+
 ##Flash相关下载
 - http://fpdownload.macromedia.com/pub/flashplayer/updaters/11/playerglobal11_3.swc 把11_3改为所需要的版本号
 
