@@ -2,7 +2,7 @@ go
 ---
 - <https://github.com/astaxie/gopkg> (go中文文档及示例)
 - <https://github.com/laher/goxc> (go交叉编译工具)
-- <https://github.com/ciju/gotunnel> (通过公有服务器，在两个内网服务器之间建立连接)
+- <https://github.com/dpapathanasiou/go-statemachine> 状态机
 - <https://github.com/robfig/cron> (CRON定时库)
 - <https://github.com/samuel/go-cache> 实现了LRU LFU缓存算法
 - <https://github.com/astaxie/beedb>
