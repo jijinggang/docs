@@ -1,3 +1,9 @@
+##Starling
+- 粒子 http://onebyonedesign.com/flash/particleeditor/
+
+##Flash相关下载
+- http://fpdownload.macromedia.com/pub/flashplayer/updaters/11/playerglobal11_3.swc 把11_3改为所需要的版本号
+
 ##Flash优化
 - 善用profile工具（对调用频繁的函数内联，对开销大的算法优化,在flash builder 4.7中加入了内联支持）
 - UI中如果有SWF动画，隐藏时必须先停止播放(可以按照debug版本的flash player10观察重绘区，比flash player11更能发现问题)
