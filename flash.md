@@ -1,3 +1,5 @@
+##Flash Player
+各版本完整版http://helpx.adobe.com/flash-player/kb/archived-flash-player-versions.html
 ##Starling
 - 粒子 http://onebyonedesign.com/flash/particleeditor/
 
@@ -7,6 +9,7 @@
 ##Flash优化
 - 善用profile工具（对调用频繁的函数内联，对开销大的算法优化,在flash builder 4.7中加入了内联支持）
 - UI中如果有SWF动画，隐藏时必须先停止播放(可以按照debug版本的flash player10观察重绘区，比flash player11更能发现问题)
+- 启动profile，把帧率设为60帧，执行某个操作后，如果发现帧率下降，很容易用profile找到问题。
 - 警惕某些触发gc的函数
 	- unloadAndStop(): 使用unloadAndStop(false)
 	- 异常：异常基本捕获也会触发gc，因此应该让异常暴露出来，而不能捕获后丢弃
