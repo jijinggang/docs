@@ -36,6 +36,7 @@
 [GitHub]: http://www.github.com "GitHub"
 
 表格扩展
+
 | 编号  | 姓名  | 年龄|
 | ----	|-----	| ----|
 | 1     | Mary 	| 20 	|
