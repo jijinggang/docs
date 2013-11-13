@@ -35,6 +35,12 @@
 
 [GitHub]: http://www.github.com "GitHub"
 
+表格扩展
+| 编号  | 姓名  | 年龄|
+| ----	|-----	| ----|
+| 1     | Mary 	| 20 	|
+| 2     | Alice | 12 	|
+| 3 	  | John  | 10	|
 
 ##Windows上如何使用markdown
 安装[MarkDownEditor](<https://github.com/jijinggang/MarkdownEditor>)
