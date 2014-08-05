@@ -1,5 +1,7 @@
 ##酷站
-- ＜http://www.golang.in＞ 对channel及协程讲得很到位
+- <http://www.golang.in> 对channel及协程讲得很到位
+- <https://github.com/Unknwon/go-study-index> 资料索引
+- <https://github.com/mmcgrana/gobyexample/tree/master/examples> 类库示例
 
 ##编译参数
     //减小编译文件尺寸
