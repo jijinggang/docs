@@ -43,3 +43,6 @@
 1. 模型的Rig标签下选择Humanoid,生成Avatar
 2. 创建AnimationController，把动画文件的每个动作拖动到里面作为State，设定参数来控制动作转换
 3. 代码中用类似 `animator.SetFloat("Speed",v)`，来修改状态
+
+##Android上查看profiler
+adb forward tcp:54999 localabstract:Unity-这里加你的包名
