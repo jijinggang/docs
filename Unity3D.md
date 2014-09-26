@@ -46,3 +46,6 @@
 
 ##Android上查看profiler
 adb forward tcp:54999 localabstract:Unity-这里加你的包名
+
+##Android上查看错误日志
+adb logcat
