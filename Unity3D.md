@@ -47,5 +47,9 @@
 ##Android上查看profiler
 adb forward tcp:54999 localabstract:Unity-这里加你的包名
 
-##Android上查看错误日志
+Android上查看错误日志:
 adb logcat
+
+##UnityShader
+1. vert:对模型每个顶点调用 
+2. frag：对裁剪过的每个面映射到的屏幕坐标上的每个像素做处理
