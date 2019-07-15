@@ -1,3 +1,15 @@
+Web
+---
+- GraphQL
+  - https://github.com/prisma/prisma 从schema生成graphql接口
+  - https://www.graphile.org/postgraphile/  从 PostgreSQL直接生成graphql接口
+  - https://github.com/facebook/relay 
+  - https://github.com/strapi/strapi CMS
+- React
+  - react-native-web
+  - react-native-windows
+  - electron
+
 go
 ---
 - <https://github.com/astaxie/gopkg> (go中文文档及示例)
