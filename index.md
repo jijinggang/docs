@@ -6,6 +6,7 @@
 - [cocos2d-x](<cocos2d-x>)
 - [Unity3D](<Unity3D>)
 - [手机游戏](<MobileGame>)
+- [正则表达式](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
 
 ## 其他项目
 - [关注项目列表](<!Projects>)
